@@ -1201,7 +1201,10 @@ img {
   }
 
   .navbar {
-    display: none;
+    left: auto;
+    top: 0%;
+    right: 0%;
+    bottom: auto;
   }
 
   .link-block {
