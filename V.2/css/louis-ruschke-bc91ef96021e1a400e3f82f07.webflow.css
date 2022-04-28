@@ -356,7 +356,7 @@ img {
 }
 
 .section.max-1200px {
-  max-width: 1200px;
+  max-width: 80vw;
 }
 
 .section.max-1200px._6em-padding-top {
