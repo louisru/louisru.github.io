@@ -2922,7 +2922,7 @@ blockquote {
 }
 
 .hero-background-image.ber-uns {
-  background-image: url('../images/pexels-jiawei-cui-2310904-min.jpg');
+  background-image: url('../images/Zeichenfläche-1.png');
   background-size: cover;
 }
 
@@ -4156,8 +4156,8 @@ blockquote {
   grid-auto-columns: 1fr;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
-  -ms-grid-columns: 1fr 1fr 1fr 1fr;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   -ms-grid-rows: auto;
   grid-template-rows: auto;
   border-style: solid;
@@ -9223,6 +9223,14 @@ blockquote {
   width: 60%;
 }
 
+.h3-style {
+  color: #081c3a;
+  font-size: 23px;
+  line-height: 1.3em;
+  font-weight: 500;
+  letter-spacing: -0.04em;
+}
+
 .h3-style.breaking {
   white-space: normal;
 }
@@ -13420,6 +13428,8 @@ blockquote {
   grid-row-end: 3;
   -ms-grid-row: 2;
   grid-row-start: 2;
+  -ms-grid-row-align: center;
+  align-self: center;
 }
 
 #w-node-_54d28e6f-d67c-3b50-0500-3c55d0ffb87a-d835d957 {
@@ -14326,61 +14336,6 @@ blockquote {
 }
 
 #w-node-baa483bd-6321-4479-6a1e-48d50d20a383-5135d965 {
-  -ms-grid-column: span 1;
-  grid-column-start: span 1;
-  -ms-grid-column-span: 1;
-  grid-column-end: span 1;
-  -ms-grid-row: span 1;
-  grid-row-start: span 1;
-  -ms-grid-row-span: 1;
-  grid-row-end: span 1;
-}
-
-#w-node-baa483bd-6321-4479-6a1e-48d50d20a388-5135d965 {
-  -ms-grid-column: span 1;
-  grid-column-start: span 1;
-  -ms-grid-column-span: 1;
-  grid-column-end: span 1;
-  -ms-grid-row: span 1;
-  grid-row-start: span 1;
-  -ms-grid-row-span: 1;
-  grid-row-end: span 1;
-}
-
-#w-node-baa483bd-6321-4479-6a1e-48d50d20a38a-5135d965 {
-  -ms-grid-column: span 1;
-  grid-column-start: span 1;
-  -ms-grid-column-span: 1;
-  grid-column-end: span 1;
-  -ms-grid-row: span 1;
-  grid-row-start: span 1;
-  -ms-grid-row-span: 1;
-  grid-row-end: span 1;
-}
-
-#w-node-baa483bd-6321-4479-6a1e-48d50d20a38b-5135d965 {
-  -ms-grid-column: span 1;
-  grid-column-start: span 1;
-  -ms-grid-column-span: 1;
-  grid-column-end: span 1;
-  -ms-grid-row: span 1;
-  grid-row-start: span 1;
-  -ms-grid-row-span: 1;
-  grid-row-end: span 1;
-}
-
-#w-node-baa483bd-6321-4479-6a1e-48d50d20a38c-5135d965 {
-  -ms-grid-column: span 1;
-  grid-column-start: span 1;
-  -ms-grid-column-span: 1;
-  grid-column-end: span 1;
-  -ms-grid-row: span 1;
-  grid-row-start: span 1;
-  -ms-grid-row-span: 1;
-  grid-row-end: span 1;
-}
-
-#w-node-baa483bd-6321-4479-6a1e-48d50d20a38f-5135d965 {
   -ms-grid-column: span 1;
   grid-column-start: span 1;
   -ms-grid-column-span: 1;
@@ -17334,7 +17289,7 @@ blockquote {
   grid-row-end: span 1;
 }
 
-#Baujahr-haus-2.w-node-_502051eb-ec1e-e932-ab7c-47632e7e7cec-dd26f1dc {
+#Baujahr-Haus-3.w-node-_502051eb-ec1e-e932-ab7c-47632e7e7cec-dd26f1dc {
   -ms-grid-column: span 1;
   grid-column-start: span 1;
   -ms-grid-column-span: 1;
@@ -17367,7 +17322,7 @@ blockquote {
   grid-row-end: span 1;
 }
 
-#Baujahr-haus-2.w-node-_70323b9d-c8f8-cdb7-7954-ee1347e5c889-dd26f1dc {
+#Art-des-Haus.w-node-_70323b9d-c8f8-cdb7-7954-ee1347e5c889-dd26f1dc {
   -ms-grid-column: span 1;
   grid-column-start: span 1;
   -ms-grid-column-span: 1;
@@ -17400,7 +17355,7 @@ blockquote {
   grid-row-end: span 1;
 }
 
-#Badezimmer-Gr-e-2.w-node-_502051eb-ec1e-e932-ab7c-47632e7e7cf0-dd26f1dc {
+#Beheizende-Fl-che.w-node-_502051eb-ec1e-e932-ab7c-47632e7e7cf0-dd26f1dc {
   -ms-grid-column: span 1;
   grid-column-start: span 1;
   -ms-grid-column-span: 1;
@@ -17433,7 +17388,7 @@ blockquote {
   grid-row-end: span 1;
 }
 
-#Personen-Zahl-2.w-node-_502051eb-ec1e-e932-ab7c-47632e7e7cf4-dd26f1dc {
+#Personen-Zahl-3.w-node-_502051eb-ec1e-e932-ab7c-47632e7e7cf4-dd26f1dc {
   -ms-grid-column: span 1;
   grid-column-start: span 1;
   -ms-grid-column-span: 1;
@@ -17466,7 +17421,7 @@ blockquote {
   grid-row-end: span 1;
 }
 
-#Personen-Zahl-2.w-node-_4a07f02a-b49d-4e01-4bad-1558402457cf-dd26f1dc {
+#Zuk-nftige-Technik.w-node-_4a07f02a-b49d-4e01-4bad-1558402457cf-dd26f1dc {
   -ms-grid-column: span 1;
   grid-column-start: span 1;
   -ms-grid-column-span: 1;
@@ -17499,7 +17454,7 @@ blockquote {
   grid-row-end: span 1;
 }
 
-#Personen-Zahl-2.w-node-c6a15020-e804-d3c6-e232-896a3ac1e5df-dd26f1dc {
+#Aktuelle-Technik.w-node-c6a15020-e804-d3c6-e232-896a3ac1e5df-dd26f1dc {
   -ms-grid-column: span 1;
   grid-column-start: span 1;
   -ms-grid-column-span: 1;
@@ -17532,7 +17487,7 @@ blockquote {
   grid-row-end: span 1;
 }
 
-#Personen-Zahl-2.w-node-_15b359e0-5995-1edb-3701-7533f8270bc6-dd26f1dc {
+#Art-Raumheizung.w-node-_15b359e0-5995-1edb-3701-7533f8270bc6-dd26f1dc {
   -ms-grid-column: span 1;
   grid-column-start: span 1;
   -ms-grid-column-span: 1;
@@ -17565,7 +17520,7 @@ blockquote {
   grid-row-end: span 1;
 }
 
-#Personen-Zahl-2.w-node-d6cb1dc1-e32b-22d7-46c1-33be05fb962e-dd26f1dc {
+#Standort.w-node-d6cb1dc1-e32b-22d7-46c1-33be05fb962e-dd26f1dc {
   -ms-grid-column: span 1;
   grid-column-start: span 1;
   -ms-grid-column-span: 1;
@@ -17598,7 +17553,7 @@ blockquote {
   grid-row-end: span 1;
 }
 
-#Personen-Zahl-2.w-node-ea19bf2b-b8e8-c797-f89c-81ccca2e67c9-dd26f1dc {
+#Aktuell-Warwasser.w-node-ea19bf2b-b8e8-c797-f89c-81ccca2e67c9-dd26f1dc {
   -ms-grid-column: span 1;
   grid-column-start: span 1;
   -ms-grid-column-span: 1;
@@ -17631,7 +17586,7 @@ blockquote {
   grid-row-end: span 1;
 }
 
-#Personen-Zahl-2.w-node-fae8d7b5-3d55-882e-a283-44101cbb9866-dd26f1dc {
+#Zuk-nftig-Warmwasser.w-node-fae8d7b5-3d55-882e-a283-44101cbb9866-dd26f1dc {
   -ms-grid-column: span 1;
   grid-column-start: span 1;
   -ms-grid-column-span: 1;
@@ -17664,7 +17619,7 @@ blockquote {
   grid-row-end: span 1;
 }
 
-#Personen-Zahl-2.w-node-_829113b8-2fac-bc44-b653-9bc8004e3c1e-dd26f1dc {
+#Photovoltaik.w-node-_829113b8-2fac-bc44-b653-9bc8004e3c1e-dd26f1dc {
   -ms-grid-column: span 1;
   grid-column-start: span 1;
   -ms-grid-column-span: 1;
